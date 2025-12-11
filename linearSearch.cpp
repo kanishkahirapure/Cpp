@@ -4,6 +4,7 @@ using namespace std;
 int main(){
     int i , n , arr[20],loc,item;
     int start , end, mid;
+    cout<<"Program by Kanishka\n";
     cout<<"Enter number of elements in sorted order : ";
     cin>>n;
     cout<<"Enter elements:";

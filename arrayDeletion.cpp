@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
     int i, j , n , arr[20],pos,item;
+    cout<<"Program by Kanishka\n";
     cout<<"Enter number of element in an array";
     cin>>n;
     cout<<"Enter elements:";

@@ -4,9 +4,10 @@ using namespace std;
 int main(){
     int i , n , arr[20],loc,item;
     int start , end, mid;
-    cout<<"Enter number of elements in sorted order : ";
+    cout<<"Program by Kanishka : \n";
+    cout<<"Enter number of elements in array: ";
     cin>>n;
-    cout<<"Enter elements:";
+    cout<<"Enter elements in sorted order :";
     for(i = 1; i <= n; i++){
         cin>>arr[i];
     }
